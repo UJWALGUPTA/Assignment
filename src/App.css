@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  font-family: poppins;
+  flex-direction: column;
+  font-size: medium;
+  background-color: rgb(252, 252, 172);
+}
